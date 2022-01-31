@@ -1,0 +1,15 @@
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/Fibonachi
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/Fibonachi.deps.json
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/Fibonachi.runtimeconfig.json
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/Fibonachi.dll
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/ref/Fibonachi.dll
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/bin/Debug/net6.0/Fibonachi.pdb
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.csproj.AssemblyReference.cache
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.AssemblyInfoInputs.cache
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.AssemblyInfo.cs
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.csproj.CoreCompileInputs.cache
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.dll
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/ref/Fibonachi.dll
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.pdb
+/Users/danilbigdaddy/Projects/Fibonachi/Fibonachi/obj/Debug/net6.0/Fibonachi.genruntimeconfig.cache
